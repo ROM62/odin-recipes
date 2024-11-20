@@ -1,0 +1,28 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+div {
+    background-color: #fff;
+    text-align: center;
+    height: auto;
+    width: 600px;
+    padding: 40px;
+    margin: 20px auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+li {
+    font-size: 18px;
+    list-style: none;
+    padding: 10px;
+}
